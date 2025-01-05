@@ -1,1 +1,1 @@
-$ docker pull ghcr.io/eooce/nodejs:main
+FROM ghcr.io/eooce/nodejs:main
